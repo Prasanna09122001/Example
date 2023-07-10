@@ -22,7 +22,7 @@ namespace Example
                         Swapping.swap();
                         break;
                     case 4: 
-                        flag = false;
+                        Add.add();
                         break;
                 } 
             }
